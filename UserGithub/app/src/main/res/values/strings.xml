@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">User Github</string>
+    <string name="search_element">Search Element</string>
+    <string name="let_s_connect">Connect Others</string>
+    <string name="hello">Hello</string>
+    <string name="user">User</string>
+    <string name="hello_user">Hello User</string>
+    <string name="username">Nama User</string>
+    <string name="user_name">User Name</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="programmer_world">Programmer World</string>
+    <string name="connect_the_others">Connect The Others</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="repo">Repository</string>
+    <string name="follower">Followers</string>
+    <string name="followback">Following</string>
+    <string name="work">Work</string>
+    <string name="city">City</string>
+    <string name="nama_user">Nama User</string>
+    <string name="working_at">Working At</string>
+</resources>
